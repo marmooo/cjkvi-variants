@@ -525,7 +525,7 @@ dypytz/variant/1997,<name>,异体字（第一批异体字整理表・1997年废�
 裸,dypytz/variant,躶
 裸,dypytz/variant,臝
 騾,dypytz/variant,驘
-虜[田],dypytz/variant,虜[毌]
+虜,dypytz/variant,
 駡,dypytz/variant,罵
 駡,dypytz/variant,傌
 麻,dypytz/variant,蔴
@@ -676,8 +676,9 @@ dypytz/variant/1997,<name>,异体字（第一批异体字整理表・1997年废�
 繞,dypytz/variant,遶
 韌,dypytz/variant,靱
 韌,dypytz/variant,靭
-韌,dypytz/variant,韌[刄]
-軔,dypytz/variant,軔[刄]
+韌,dypytz/variant,靱
+韌,dypytz/variant,靭
+韌,dypytz/variant,
 飪,dypytz/variant,餁
 衽,dypytz/variant,袵
 妊,dypytz/variant,姙
@@ -705,7 +706,7 @@ dypytz/variant/1997,<name>,异体字（第一批异体字整理表・1997年废�
 删,dypytz/variant,刪
 姗,dypytz/variant,姍
 栅,dypytz/variant,柵
-珊[册],dypytz/variant,珊[冊]
+珊,dypytz/variant,
 膳,dypytz/variant,饍
 膻,dypytz/variant,羶
 膻,dypytz/variant,羴
